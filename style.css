@@ -1,0 +1,128 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #F5F7FA;
+}
+
+.wrapper {
+display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+width: 1200px;
+margin: 0 auto;
+background: #ffffff;
+box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+main{
+padding: 102px 88px 102px 88px;
+}
+
+aside {
+width: 370px;
+background: #1E2939;
+}
+
+.photoCV{
+    margin-top: 25px;
+}
+
+.header-secondary {
+    color: #FFF;
+}
+
+.contact-block{
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.contacts-links {
+    color: #FFF;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    color: #FFF;
+    font-weight: 700;
+}
+
+.tech-skills-block{
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.list-secondary{
+    color: #FB6D3A;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-item{
+    color: #FFF;
+}
+
+.soft-skills-block{
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.contacts-links{
+    text-decoration: none;
+}
+
+
+.phone-number{
+    margin-left: 10px;
+}
+
+.mail-adres{
+    margin-left: 10px;
+}
+
+.main-discription {
+    width: 400px;
+}
+
+.job-title{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.discription{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 40px;
+    color: #595959;
+}
+
+.projects {
+    width: 485px;
+}
+
+.list-primery {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-primery-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
