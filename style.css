@@ -108,6 +108,7 @@ h1 {
 
 .projects {
     width: 485px;
+    margin-bottom: 51px;
 }
 
 .list-primery {
@@ -125,4 +126,45 @@ h1 {
     line-height: 24px;
     color: #595959;
     text-decoration: none;
+}
+
+.header-primary {
+    color: #000000;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+
+
+.job-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.highlight {
+    color: #FB6D3A
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.joblist {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
 }
